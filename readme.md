@@ -2,7 +2,7 @@
 
 Doing stuff, make it beetter
 
-- *Refactor the functions to further consolidate 
+- **Refactor the functions to further consolidate 
 
 ## Installation
 
