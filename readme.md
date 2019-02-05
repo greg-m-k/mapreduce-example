@@ -1,6 +1,6 @@
 # Example question for Map/Reduce using C# generics
 
-Doing stuff, make it beetter
+Doing stuff, make it better
 
 - Refactor the functions to further consolidate 
 
